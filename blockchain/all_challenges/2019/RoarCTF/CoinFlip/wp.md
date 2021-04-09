@@ -1,1 +1,0 @@
-- https://hitcxy.com/2019/CoinFlip/

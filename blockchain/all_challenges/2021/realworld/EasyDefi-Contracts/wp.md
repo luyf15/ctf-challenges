@@ -1,1 +1,0 @@
-- https://blog.syang.xyz/2021/01/realworldctf-2020-ethereum/

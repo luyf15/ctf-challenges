@@ -1,1 +1,0 @@
-- https://github.com/beafb1b1/challenges/tree/master/szjj/ssjj_final_cow_rise/cow
